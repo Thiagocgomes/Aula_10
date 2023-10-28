@@ -1,6 +1,4 @@
-# Aula_10 🚀
-
-Funções e Dicionários em Python
+# Funções e Dicionários em Python 🚀
 
 # 🔌Como fazer funcionar na sua máquina:
 
