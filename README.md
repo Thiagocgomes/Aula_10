@@ -1,5 +1,6 @@
 # Funções e Dicionários em Python 🚀
 
+
 # 🔌Como fazer funcionar na sua máquina:
 
 - Instale Python na sua máquina;
